@@ -1,0 +1,8 @@
+[package]
+name = "crustopals"
+version = "0.1.0"
+authors = ["ek0n"]
+
+[dependencies]
+base64 = "0.8.0"
+hex = "0.3.1"
